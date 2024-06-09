@@ -33,7 +33,7 @@ sharelatex-full](https://github.com/Tuetenk0pp/sharelatex-full#readme)镜像 ：
 5. **初始化 MongoDB**
    - 进入 MongoDB 容器并初始化：
      ```bash
-     docker exec -it <mongo_container_id> mongo
+     docker exec -it mongo mongo
      rs.initiate()
      exit
      ```
