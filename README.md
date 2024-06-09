@@ -3,7 +3,7 @@
 本文档指导你在 Windows 11 上本地部署 OverLeaf 完整版。
 
 ## 前提条件
-- 安装好 Docker
+- 安装好 [Docker](https://www.docker.com/products/docker-desktop/)
 
 ## 步骤
 
